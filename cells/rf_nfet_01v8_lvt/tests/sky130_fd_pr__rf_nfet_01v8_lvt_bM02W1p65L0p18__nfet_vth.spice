@@ -1,5 +1,5 @@
 * Transistor Vth and I-V characteristic
-.option scale=1E-6
+.options parser scale=1E-6
 
 * Include SkyWater sky130 device models
 .include "../sky130_fd_pr__rf_nfet_01v8_lvt_bM02W1p65L0p18.spice"
